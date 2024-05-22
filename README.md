@@ -133,7 +133,7 @@ For error responses `authorization 401` and `validation 422`, please check your 
 ## 7. License
 
 By contributing to this library, you agree that your contributions may be placed under the MIT license.
-Copyright (c) Notch Pay Sarl.
+Copyright (c) [Notch Pay Sarl](https://notchpay.co).
 
 ## 8. Change Logs
 
